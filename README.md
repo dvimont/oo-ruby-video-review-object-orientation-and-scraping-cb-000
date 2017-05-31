@@ -4,7 +4,7 @@ In this two part video review, we'll cover the history of Object Orientation, a 
 
 ## Objectives
 
-- Explain Esdger Dijkstra's influence on programming
+- Explain Edsger Dijkstra's influence on programming
 - Write tests that describe our objects
 - Define Hook, class getter and constructor method for our class
 - Define a class constructor method to scrape from a data source and return a hash of properties
